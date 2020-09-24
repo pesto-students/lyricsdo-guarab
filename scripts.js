@@ -99,6 +99,6 @@ result.addEventListener('click', e => {
   }
 });
 
-function reloadPage(){
+function reloadPage(){ 
   location.reload();
 }
